@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: RandomizedVi
+name: Vi's Random Thoughts
 
 # Name of the author
 author: Irvi Aini
 
 # Short bio or description (displayed in the header)
-description: Vi's random thoughts
+description: On being a human.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/irvi_git.png
@@ -30,7 +30,7 @@ footer-links:
   pinterest:
   rss: rss
   twitter: irvifa
-  stackoverflow: 
+  stackoverflow: users/4334376/irvifa
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:

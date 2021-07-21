@@ -5,4 +5,6 @@ categories: Miscellaneous
 ---
 
 Hello, I've decided to give a try on writing a blog this time.
-Welcome!
+
+Welcome! ฅ(＾・ω・＾ฅ)
+
