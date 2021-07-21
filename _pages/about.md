@@ -13,7 +13,7 @@ I've contributed in:
 - [Keras](https://github.com/keras-team): Deep learning framework
 - [Planout](https://github.com/facebookarchive/planout): PlanOut is a multi-platform framework and programming language for online field experimentation.
 - [TLX](https://github.com/ia-toki/training-gate-id): Indonesian competitive programming training platform.
-[Apache Beam](https://beam.apache.org/): Open source, unified model for defining both batch and streaming data-parallel processing pipelines.
+- [Apache Beam](https://beam.apache.org/): Open source, unified model for defining both batch and streaming data-parallel processing pipelines.
 
 ---
 
