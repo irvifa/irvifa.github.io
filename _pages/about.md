@@ -19,6 +19,23 @@ I've contributed in:
 
 ---
 
+### Volunteer Experience
+
+- Helm Summit 2019 Program Committee
+- KubeCon and CloudNativeCon APAC Programme Committee 2020
+- KubeCon and CloudNativeCon NA Programme Committee 2020
+- KubeCon and CloudNativeCon EU Track Chair for Machine Learning and Data 2021
+
+---
+
+### Licenses & Certifications
+
+- Google's Tech Elevate Program
+- The Linux Foundation - LFC101: Inclusive Speaker Orientation
+- The Linux Foundation - CKAD: Certified Kubernetes Application Developer
+
+---
+
 ### Publications
 
 Some of the papers that I have published can be found on [Google Scholar](https://scholar.google.com/citations?user=95-AHW8AAAAJ&hl=en#).
