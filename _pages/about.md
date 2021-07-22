@@ -44,7 +44,7 @@ Some of the papers that I have published can be found on [Google Scholar](https:
 
 ### Honors & Awards
 
-- KubeCon and CloudNativeCon Diversity Scholarship Recipients on KubeCon North America 2019
+- KubeCon and CloudNativeCon Diversity Scholarship Recipients for KubeCon North America 2019
 - Rust Diversity Scholarship Recipients for RustFest EU Barcelona 2019
-- KubeCon and CloudNativeCon Diversity Scholarship Recipients for Helm Summit 2019
+- KubeCon and CloudNativeCon Diversity Scholarship Recipients for Helm Summit Amsterdam 2019
 - KubeCon and CloudNativeCon Diversity Scholarship Recipients for KubeCon Shanghai 2019
