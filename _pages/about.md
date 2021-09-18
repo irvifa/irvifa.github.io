@@ -19,15 +19,6 @@ I've contributed in:
 
 ---
 
-### Volunteer Experience
-
-- Helm Summit 2019 Program Committee
-- KubeCon and CloudNativeCon APAC Programme Committee 2020
-- KubeCon and CloudNativeCon NA Programme Committee 2020
-- KubeCon and CloudNativeCon EU Track Chair for Machine Learning and Data 2021
-
----
-
 ### Licenses & Certifications
 
 - Google's Tech Elevate Program
@@ -48,3 +39,13 @@ Some of the papers that I have published can be found on [Google Scholar](https:
 - Rust Diversity Scholarship Recipients for RustFest EU Barcelona 2019
 - KubeCon and CloudNativeCon Diversity Scholarship Recipients for Helm Summit Amsterdam 2019
 - KubeCon and CloudNativeCon Diversity Scholarship Recipients for KubeCon Shanghai 2019
+
+---
+
+### Volunteer Experience
+
+- Helm Summit 2019 Program Committee
+- KubeCon and CloudNativeCon APAC Programme Committee 2020
+- KubeCon and CloudNativeCon NA Programme Committee 2020
+- KubeCon and CloudNativeCon EU Track Chair for Machine Learning and Data 2021
+- KubeCon and CloudNativeCon NA Programme Committee 2021
