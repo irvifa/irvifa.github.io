@@ -21,9 +21,11 @@ I've contributed in:
 
 ### Licenses & Certifications
 
-- Google's Tech Elevate Program
+- Google's Tech Elevate Program 2020
 - The Linux Foundation - LFC101: Inclusive Speaker Orientation
 - The Linux Foundation - CKAD: Certified Kubernetes Application Developer
+- Google Data Analyst
+- Women Developer Academy 2022
 
 ---
 
@@ -45,7 +47,12 @@ Some of the papers that I have published can be found on [Google Scholar](https:
 ### Volunteer Experience
 
 - Helm Summit 2019 Program Committee
+- Grace Hopper 2020 Program Committee
 - KubeCon and CloudNativeCon APAC Programme Committee 2020
 - KubeCon and CloudNativeCon NA Programme Committee 2020
 - KubeCon and CloudNativeCon EU Track Chair for Machine Learning and Data 2021
 - KubeCon and CloudNativeCon NA Programme Committee 2021
+- KubeCon + CloudNativeCon NA Program Committee NA 2022
+- KubeCon and CloudNativeCon NA Track Chair for Machine Learning and Data 2022
+- Grace Hopper 2022 Open Source Day Mentor
+- CppCon, The C++ Conference 2022 Track Host
