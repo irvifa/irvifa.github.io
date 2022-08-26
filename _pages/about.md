@@ -26,6 +26,9 @@ I've contributed in:
 - The Linux Foundation - CKAD: Certified Kubernetes Application Developer
 - Google Data Analyst
 - Women Developer Academy 2022
+- [IBM AI Engineering Professional Certificate](https://coursera.org/verify/professional-cert/9W7T4SWFZ5NR)
+- [IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LR7DY54NRVXV)
+- [IBM Data Science Professional Certificate](https://coursera.org/verify/professional-cert/T7H6S2Y6BX43)
 
 ---
 
