@@ -29,6 +29,7 @@ I've contributed in:
 - [IBM AI Engineering Professional Certificate](https://coursera.org/verify/professional-cert/9W7T4SWFZ5NR)
 - [IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LR7DY54NRVXV)
 - [IBM Data Science Professional Certificate](https://coursera.org/verify/professional-cert/T7H6S2Y6BX43)
+- [IBM Applied Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/MB2GQN7ZVMEZ)
 
 ---
 
