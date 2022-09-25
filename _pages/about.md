@@ -46,7 +46,7 @@ Some of the papers that I have published can be found on [Google Scholar](https:
 - KubeCon and CloudNativeCon Diversity Scholarship Recipients for Helm Summit Amsterdam 2019
 - KubeCon and CloudNativeCon Diversity Scholarship Recipients for KubeCon Shanghai 2019
 - Dan Kohn Scholarship Fund for KubeCon and CloudNativeCon EU 2022
-- - Dan Kohn Scholarship Fund for KubeCon and CloudNativeCon NA 2022
+- Dan Kohn Scholarship Fund for KubeCon and CloudNativeCon NA 2022
 
 ---
 
