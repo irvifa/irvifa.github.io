@@ -46,13 +46,14 @@ Some of the papers that I have published can be found on [Google Scholar](https:
 - KubeCon and CloudNativeCon Diversity Scholarship Recipients for Helm Summit Amsterdam 2019
 - KubeCon and CloudNativeCon Diversity Scholarship Recipients for KubeCon Shanghai 2019
 - Dan Kohn Scholarship Fund for KubeCon and CloudNativeCon EU 2022
+- - Dan Kohn Scholarship Fund for KubeCon and CloudNativeCon NA 2022
 
 ---
 
 ### Volunteer Experience
 
-- Helm Summit 2019 Program Committee
-- Grace Hopper 2020 Program Committee
+- Helm Summit Program Committee 2019 
+- Grace Hopper Program Committee 2020 
 - KubeCon and CloudNativeCon APAC Programme Committee 2020
 - KubeCon and CloudNativeCon NA Programme Committee 2020
 - KubeCon and CloudNativeCon EU Programme Committee & Track Chair for Machine Learning and Data 2021
