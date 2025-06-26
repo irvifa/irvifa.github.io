@@ -382,7 +382,7 @@ An interactive programming challenge that visualizes the difference between sums
 }
 
 <span style="color: #888888;">// Modern ES6+ approach with chaining:</span>
-<span style="color: #cccccc;">const</span> <span style="color: #e0e0e0;">differenceOfSumsModern</span> = (n, m) => 
+<span style="color: #cccccc;">const</span> <span style="color: #e0e0e0;">differenceOfSums</span> = (n, m) => 
     <span style="color: #e0e0e0;">Array</span>.<span style="color: #e0e0e0;">from</span>({length: n}, (_, i) => i + <span style="color: #aaaaaa;">1</span>)
         .<span style="color: #e0e0e0;">reduce</span>((sum, num) => sum + (num % m === <span style="color: #aaaaaa;">0</span> ? -num : num), <span style="color: #aaaaaa;">0</span>);
 
