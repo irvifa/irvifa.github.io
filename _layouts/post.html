@@ -2,11 +2,19 @@
 layout: default
 ---
 
+<div id="reading-progress"></div>
+
 <article class="post detailed">
   <h1>{{ page.title }}</h1>
 
   <div>
-    <p class="author_title">{{site.author}}  ·  {{ page.date | date: "%B %e, %Y" }}</p>
+    {% assign words = content | number_of_words %}
+    {% if words < 200 %}
+      {% assign reading_time = 1 %}
+    {% else %}
+      {% assign reading_time = words | divided_by: 200 %}
+    {% endif %}
+    <p class="author_title">{{site.author}}&ensp;&middot;&ensp;{{ page.date | date: "%B %-d, %Y" }}&ensp;&middot;&ensp;{{ reading_time }} min read</p>
     {% if page.last_modified_at %}
     <p class="author_title" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Updated: {{ page.last_modified_at | date: "%b %-d, %Y" }})</p>
     {% endif %}
@@ -35,5 +43,22 @@ layout: default
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>-->
 
+  <div class="substack-widget">
+    <p class="substack-widget-title">Enjoyed this?</p>
+    <p class="substack-widget-desc">I write about technology, open source, and being human. Subscribe to get new posts in your inbox.</p>
+    <a href="https://irvifa.substack.com" target="_blank" class="substack-widget-btn">Subscribe on Substack</a>
+  </div>
+
   {% include disqus.html %}
 </article>
+
+<script>
+  (function() {
+    var bar = document.getElementById('reading-progress');
+    window.addEventListener('scroll', function() {
+      var scrolled = window.scrollY;
+      var total = document.documentElement.scrollHeight - window.innerHeight;
+      bar.style.width = (total > 0 ? Math.min(scrolled / total * 100, 100) : 0) + '%';
+    }, { passive: true });
+  })();
+</script>

@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <script>
+      (function() {
+        var saved = localStorage.getItem('theme');
+        var preferred = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        document.documentElement.setAttribute('data-theme', saved || preferred);
+      })();
+    </script>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
     {% seo title=false %}
     {% include meta.html %}
@@ -24,7 +31,6 @@
   </head>
 
   <body>
-    <div id="bar"></div>
     <div class="wrapper-container">
       <div class="wrapper-masthead">
         <div class="container">
@@ -40,6 +46,7 @@
               <a href="{{ site.baseurl }}/">Home</a>
               <a href="{{ site.baseurl }}/search">Search</a>
               <a href="{{ site.baseurl }}/about">About</a>
+              <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode"></button>
             </nav>
           </header>
         </div>
@@ -61,5 +68,20 @@
     </div>
 
     {% include analytics.html %}
+    <script>
+      (function() {
+        var btn = document.getElementById('theme-toggle');
+        function updateIcon() {
+          btn.textContent = document.documentElement.getAttribute('data-theme') === 'dark' ? '☀' : '☾';
+        }
+        updateIcon();
+        btn.addEventListener('click', function() {
+          var next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+          document.documentElement.setAttribute('data-theme', next);
+          localStorage.setItem('theme', next);
+          updateIcon();
+        });
+      })();
+    </script>
   </body>
 </html>

@@ -2,16 +2,28 @@
 layout: default
 ---
 
+<div class="homepage-intro">
+  <p>Hi, I'm Irvi — an engineer and open source contributor. I write about technology, distributed systems, and the quieter questions of being human.</p>
+</div>
+
 <div class="posts">
   {% for post in paginator.posts %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
         <h1>{{ post.title }}</h1>
-
-        <div>
-          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
-        </div>
       </a>
+
+      {% assign words = post.content | number_of_words %}
+      {% if words < 200 %}
+        {% assign reading_time = 1 %}
+      {% else %}
+        {% assign reading_time = words | divided_by: 200 %}
+      {% endif %}
+
+      <p class="post-meta">
+        {{ post.date | date: "%B %-d, %Y" }}&ensp;&middot;&ensp;{{ reading_time }} min read
+      </p>
+
       <div class="entry">
         {{ post.excerpt }}
       </div>
