@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I'm Irvi — an engineer drawn to the intersection of systems and people. Currently at a fruit stall company. My work spans distributed systems, machine learning, and developer tooling, with a thread of open source running through all of it.
+**Pronouns:** she/her/hers
+
+I'm Irvi — an engineer drawn to the intersection of systems and people. Currently at a fruit stall company, and formerly a software engineer at [Spotify](https://www.spotify.com/) and [Mercari](https://about.mercari.com/en/). My work spans distributed systems, machine learning, and developer tooling, with a thread of open source running through all of it.
 
 I've contributed to projects like [Kubernetes](https://github.com/kubernetes), [TensorFlow](https://github.com/tensorflow), [Keras](https://github.com/keras-team), [Apache Beam](https://beam.apache.org/), and others — projects I care about because they shape how engineers everywhere build things. Beyond code, I've spent years helping shape conferences like KubeCon + CloudNativeCon as a program committee member and track chair for Machine Learning and Data.
 
@@ -56,6 +58,8 @@ Selected papers on [Google Scholar](https://scholar.google.com/citations?user=95
 
 ### Community & Volunteering
 
+- [CNCF Ambassador](https://www.cncf.io/people/ambassadors/)
+- Emeritus Kubernetes SIG Docs Co-chair
 - Helm Summit Program Committee 2019
 - Grace Hopper Program Committee 2020
 - KubeCon + CloudNativeCon APAC Programme Committee 2020
@@ -66,6 +70,19 @@ Selected papers on [Google Scholar](https://scholar.google.com/citations?user=95
 - KubeCon + CloudNativeCon NA Programme Committee & Track Chair, Machine Learning and Data 2022
 - Grace Hopper 2022 Open Source Day — Mentor for ArgoCD
 - CppCon 2022 — Track Host
+- KubeCon + CloudNativeCon India Programme Committee 2024
+- KubeCon + CloudNativeCon NA Programme Committee 2024
 - KubeCon + CloudNativeCon NA Programme Committee 2025
 - KubeCon + CloudNativeCon Europe 2026 Programme Committee Member
 - KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch China 2026 Programme Committee Member
+
+---
+
+### Elsewhere
+
+- [Substack](https://irvifa.substack.com/)
+- [Medium](https://irvifa.medium.com/)
+- [GitBook — System Design](https://irvifa.gitbook.io/system-design)
+- [Google Scholar](https://scholar.google.com/citations?user=95-AHW8AAAAJ&hl=en)
+- [LinkedIn](https://www.linkedin.com/in/irvifa/)
+- [GitHub](https://github.com/irvifa)
