@@ -27,15 +27,6 @@ This blog is where I write about technology, ethics, burnout, and what it means 
   - 2020 — Grace Hopper Programme Committee
   - 2019 — Helm Summit Programme Committee
 
-### Open Source Contributions
-
-- [Kubernetes](https://github.com/kubernetes) — Open-source system for automating deployment, scaling, and management of containerized applications.
-- [TensorFlow](https://github.com/tensorflow) — Open source platform for machine learning.
-- [Keras](https://github.com/keras-team) — Deep learning framework.
-- [Apache Beam](https://beam.apache.org/) — Unified model for defining both batch and streaming data-parallel processing pipelines.
-- [Planout](https://github.com/facebookarchive/planout) — Multi-platform framework for online field experimentation.
-- [TLX](https://github.com/ia-toki/training-gate-id) — Indonesian competitive programming training platform.
-
 ### Honors & Awards
 
 - Dan Kohn Scholarship Fund — KubeCon + CloudNativeCon EU and NA 2022
