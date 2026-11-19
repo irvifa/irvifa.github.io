@@ -7,7 +7,7 @@ class: about
 
 I'm Irvi (she/her) — an engineer drawn to the intersection of systems and people. Currently at a fruit stall company, and formerly a software engineer at [Spotify](https://www.spotify.com/) and [Mercari](https://about.mercari.com/en/). My work spans distributed systems, machine learning, and developer tooling, with a thread of open source running through all of it.
 
-I've contributed to projects like [Kubernetes](https://github.com/kubernetes), [TensorFlow](https://github.com/tensorflow), [Keras](https://github.com/keras-team), [Apache Beam](https://beam.apache.org/), and others — projects I care about because they shape how engineers everywhere build things. Beyond code, I've spent years helping shape conferences like KubeCon + CloudNativeCon as a programme committee member and track chair for Machine Learning and Data.
+I've contributed to projects like [Kubernetes](https://github.com/kubernetes), [Keras](https://github.com/keras-team), [Apache Beam](https://beam.apache.org/), and others — projects I care about because they shape how engineers everywhere build things. Beyond code, I've spent years helping shape conferences like KubeCon + CloudNativeCon as a programme committee member and track chair for Machine Learning and Data.
 
 This blog is where I write about technology, ethics, burnout, and what it means to be a person alongside the work. My published papers are on [Google Scholar](https://scholar.google.com/citations?user=95-AHW8AAAAJ&hl=en).
 
